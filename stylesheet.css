@@ -251,7 +251,7 @@ footer{
 
 .footer-wrapper {
 	text-align: center; 
-	background-color:rgb(255,190,118);
+	background-color:rgba(224,185,120,1.0);
 }
 
 .footer-wrapper img {
@@ -263,5 +263,5 @@ footer{
 .footer-wrapper p{
 	font-weight: bold;
 	margin: 0 auto;
-	color:rgba(57,0,0,1);
+	color:rgba(57,0,0,1.0);
 }
