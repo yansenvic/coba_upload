@@ -29,7 +29,7 @@ body {
 
 .kop-wrapper h1 {
 	font-size: 50px;
-	color: red;
+	color: rgba(211, 84, 0,1.0);
 	opacity: 0.7;
 	letter-spacing: 5px;
 }
@@ -251,10 +251,11 @@ footer{
 
 .footer-wrapper {
 	text-align: center; 
+	background-color: rgba(230, 126, 34,0.6);
 }
 
 .footer-wrapper img {
-	width: 50px;
+	width: 40px;
 	margin: 0 auto;
 	display: block;
 }
